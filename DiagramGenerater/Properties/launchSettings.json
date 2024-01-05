@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DiagramGenerater": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Project\\MV\\StateMachine\\GalagaFSM\\plantuml.txt -open"
+    }
+  }
+}
